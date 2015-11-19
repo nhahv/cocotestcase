@@ -1,0 +1,19 @@
+{
+    "name": "nhahv/cocotestcase",
+    "description": "Console Colorful TestCase for PhpUnit on Laravel 5",
+    "type": "symfony-bundle",
+    "require": {
+        "laravel/framework": "^5.0",
+        "php": ">=5.6.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nha.HV",
+            "email": "nhahv.viss@gmail.com"
+        }
+    ]
+}
